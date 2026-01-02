@@ -1,4 +1,4 @@
-## Hi there 👋
+## NGUYEN HUU PHUC HUNG - JUNIOR SOFTWARE DEVELOPER
 
 <!--
 **PhucHung2010/PhucHung2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
