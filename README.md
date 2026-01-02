@@ -3,6 +3,6 @@
 
 - 👨‍💻 Personal projects available at: [https://github.com/PhucHung2010](https://github.com/PhucHung2010)
 - 📱 iOS applications published on the App Store:
-  - <a href="https://apps.apple.com/app/idXXXXXXXXXX" target="_blank">App Name 1</a>
-  - <a href="https://apps.apple.com/app/idXXXXXXXXXX" target="_blank">App Name 2</a>
+  - <a href="https://apps.apple.com/app/phomulacalc/id6738628076" target="_blank">Calculator - PhomulaCalc</a>
+  - <a href="https://apps.apple.com/vn/app/flooditmultiplatform/id6744859177" target="_blank">Flood fill game - FlooditMultiplatform</a>
 - 📫 Contact me at: **nhphung2468@gmail.com**
