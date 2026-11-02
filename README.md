@@ -11,7 +11,7 @@
       <p>I am a High School Student and Software Developer with a strong passion for <b>building scalable applications</b>.</p>
       <ul>
         <li>✨ Informatics Specialized Class at <b>Le Quy Don High School for the Gifted</b> (GPA: 9.2)</li>
-        <li>💼 Ex-Software Engineer Intern at <b><a href="https://d-soft.com.vn/">D-SOFT JSC</a></b></li>
+        <li>💼 Software Engineer Intern at <b><a href="https://d-soft.com.vn/">D-SOFT JSC</a></b></li>
         <li>🚀 Founder of <b>FitBuddy</b> & Co-Founder of <b><a href="https://apps.apple.com/app/noisy-make-some-noise/id6795499278">Noisy</a></b></li>
         <li>📱 Indie iOS Developer with apps published on the <b>Apple App Store</b></li>
         <li>📫 Contact me at: <b>nhphung2468@gmail.com</b></li>
